@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxt6bRfRhj7ABxviUvKhf65kkWIe6VBJHGg6GBt/v0EWo7+TF/Hf0DeG4Mpqw5Um+1PEFSXre14QLO44mMwWcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evang\\Downloads\\IAEW\\DockerNetExample\\DockerNetExample\\DockerNetExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evang\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\evang\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\evang\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\evang\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\evang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\evang\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
